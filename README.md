@@ -1,18 +1,100 @@
-# 💫 About Me:
-<!-- 🎉 Header --><br><h1 align="center">Hi 👋 I'm Asjid Ahmed (frost64)</h1><br><p align="center"><br>  <em>MSc Data Science | BSc Computer Science</em><br><br>  <strong>Full-Stack Developer & Data Scientist</strong><br></p><br><p align="center"><br>  💼 FAST NUCES (Pakistan) & University of Greenwich (UK)<br></p><br><br>---<br><br><!-- 🧠 Bio --><br>## 🚀 About Me<br>I’m a passionate problem-solver with a strong foundation in **Web Development**, **Data Science**, and **Algorithms**. I build both **interactive web applications** and **data-driven solutions**, and I enjoy working across the full software stack.<br><br>📫 Contact: your.email@example.com  <br>🌐 Portfolio: _(add link if you have one)_  <br>🔗 LinkedIn: _(add link)_<br><br>---<br><br><!-- 🛠 Skills --><br>## 🧠 Skills & Technologies<br><p align="left"><br>  <code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <br>  <code>HTML/CSS</code> <code>React</code> <code>PHP</code><br></p><br><p align="left"><br>  <code>MongoDB</code> <code>MySQL</code> <code>Microsoft SQL Server</code><br>  <code>Pandas</code> <code>NumPy</code> <code>scikit-learn</code> <br>  <code>Keras</code><br></p><br><p align="left"><br>  <code>Git</code> <code>GitHub</code> <code>Bootstrap</code> <code>jQuery</code><br>  <code>NPM</code> <code>Apache</code> <code>OpenGL</code><br></p><br><br>---<br><br><!-- 📌 Projects --><br>## 🔥 Featured Projects<br><br>### 🌐 Web & Full-Stack<br>- **[Art-Gallery-Project](https://github.com/frost64/Art-Gallery-Project)** – JavaScript & front-end interaction. :contentReference[oaicite:7]{index=7}<br>- **[DataBase](https://github.com/frost64/DataBase)** – PHP + Database practice. :contentReference[oaicite:8]{index=8}<br><br>### 💻 Core Computer Science<br>- **[C-Codes](https://github.com/frost64/C-Codes)** – C/C++ implementations and practice. :contentReference[oaicite:9]{index=9}<br>- **[Algo](https://github.com/frost64/Algo)** – Algorithm solutions in Java. :contentReference[oaicite:10]{index=10}<br>- **[Digital-Logic-Design](https://github.com/frost64/Digital-Logic-Design)** – Logic design coursework. :contentReference[oaicite:11]{index=11}<br><br>*(Add live demos or screenshots to make these stand out.)*<br><br>---<br><br><!-- 📊 GitHub Stats --><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=frost64&show_icons=true&theme=tokyonight" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost64&layout=compact&theme=tokyonight" /><br></p><br><br>---<br><br>## 🎯 What I’m Working On<br>- Full-Stack web projects using **React & Node**<br>- Data science models & ML experiments<br>- Building a Strong Portfolio for industry roles<br><br>---<br><br>## 🤝 Let’s Connect!<br>🔗 I’m open to mentorship, collaboration, and software engineering opportunities — let’s speak!<br><br>
+<h1 align="center">Hi 👋 I'm Asjid Ahmed</h1>
+<h3 align="center">Full-Stack Developer | Data Scientist</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asjidahmed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asjidahmed6@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=frost64&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=frost64&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frost64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+🎓 MSc Data Science — University of Greenwich, London  
+<br/>
+🎓 BSc Computer Science — FAST NUCES, Pakistan
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=frost64&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I’m a passionate problem-solver with a strong foundation in **Web Development**,  
+**Data Science**, and **Core Computer Science**.
+
+- 💻 Experienced in full-stack and frontend development  
+- 📊 Strong background in data analysis & machine learning  
+- 🧠 Solid CS fundamentals (Algorithms, Databases, Logic Design)  
+- 🎯 Actively building industry-ready projects  
+
+📫 **Email:** asjidahmed6@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/asjidahmed/  
+
+---
+
+## 🧠 Core Skills
+
+### Programming
+`Python` `JavaScript` `TypeScript` `C` `C++` `PHP`
+
+### Web Development
+`HTML` `CSS` `React` `Bootstrap` `jQuery` `Node.js` `Express`
+
+### Databases
+`MongoDB` `MySQL` `Microsoft SQL Server` `MariaDB`
+
+### Data Science & ML
+`Pandas` `NumPy` `Matplotlib` `scikit-learn` `Keras` `TensorFlow` `PyTorch`
+
+### Tools & Systems
+`Git` `GitHub` `Apache` `Anaconda` `Cisco` `CMake` `OpenGL`
+
+---
+
+## 🔥 Featured Projects
+
+### 🌐 Web & Full-Stack
+- **[Art-Gallery-Project](https://github.com/frost64/Art-Gallery-Project)**  
+  JavaScript-based interactive front-end project
+
+- **[DataBase](https://github.com/frost64/DataBase)**  
+  PHP + MySQL database application
+
+### 💻 Computer Science Foundations
+- **[C-Codes](https://github.com/frost64/C-Codes)**  
+  C/C++ problem-solving & fundamentals
+
+- **[Algo](https://github.com/frost64/Algo)**  
+  Algorithm implementations (Java)
+
+- **[Digital-Logic-Design](https://github.com/frost64/Digital-Logic-Design)**  
+  Logic design coursework & concepts
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frost64&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=frost64&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost64&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+- Full-Stack applications with React & Node
+- Machine Learning & Data Science projects
+- Building a strong professional portfolio
+
+---
+
+## 🤝 Let’s Connect
+I’m open to collaboration, mentorship, and software engineering opportunities.
