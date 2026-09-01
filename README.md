@@ -216,7 +216,6 @@ I enjoy building applications that combine clean software engineering with pract
 />
 
 </div>
----
 
 
 ## 📚 Currently Improving
