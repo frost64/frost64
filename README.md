@@ -216,48 +216,6 @@ alt="GitHub Statistics"
 
 ---
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-[![Asjid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frost64\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/frost64)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-* React applications
-* Node.js backends
-* Full-stack architecture
-* Responsive interfaces
-* Database integration
-* Production-ready projects
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Data & AI
-
-* Data analysis
-* Machine learning
-* Python ecosystems
-* Model development
-* Data visualization
-* Practical ML applications
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📚 Currently Improving
 
