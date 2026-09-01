@@ -160,7 +160,9 @@ I continue strengthening the fundamentals behind reliable software development.
 
 ### 🎨 Art Gallery Project
 
-Web-based art gallery project involving a relational database and server-side application setup.
+- Web-based art gallery project with database integration
+- Includes server-side functionality and relational data handling
+- Focused on practical full-stack development concepts
 
 **Technologies:** `PHP` `MySQL` `HTML` `CSS`
 
@@ -170,7 +172,10 @@ Web-based art gallery project involving a relational database and server-side ap
 
 ### 🗄️ Database & SQL
 
-Collection of database exercises, SQL files, PHP database connectivity examples and relational database coursework.
+- Collection of SQL exercises and database coursework
+- Includes relational database concepts and queries
+- Contains PHP database connectivity examples
+- Covers practical MySQL usage
 
 **Technologies:** `SQL` `PHP` `MySQL`
 
@@ -180,7 +185,10 @@ Collection of database exercises, SQL files, PHP database connectivity examples 
 
 ### ⚙️ C / C++ Programming
 
-Collection of C/C++ programs covering programming fundamentals, data structures and problem-solving concepts.
+- Collection of C and C++ programs
+- Covers programming fundamentals
+- Includes problem-solving exercises
+- Explores data structures and core CS concepts
 
 **Technologies:** `C` `C++` `Data Structures`
 
@@ -190,7 +198,9 @@ Collection of C/C++ programs covering programming fundamentals, data structures 
 
 ### 🧩 Algorithms
 
-Algorithm and problem-solving implementations written in Java and Python.
+- Implementations of algorithms and problem-solving exercises
+- Includes programs written in Java and Python
+- Focuses on algorithmic thinking and CS fundamentals
 
 **Technologies:** `Java` `Python` `Algorithms`
 
@@ -200,7 +210,9 @@ Algorithm and problem-solving implementations written in Java and Python.
 
 ### 🔌 Digital Logic Design
 
-Coursework and learning material covering digital logic design concepts.
+- Coursework covering digital logic design concepts
+- Includes fundamental computer engineering topics
+- Focuses on logic systems and digital design principles
 
 **Topics:** `Digital Logic` `Computer Engineering` `CS Fundamentals`
 
