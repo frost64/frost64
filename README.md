@@ -12,7 +12,7 @@
   />
 </a>
 <br/>
-<a href="https://www.linkedin.com/in/asjidahmed/">
+<a href="https://www.linkedin.com/in/asjid-ahmed/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Asjid%20Ahmed-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white"
     alt="LinkedIn"
@@ -335,7 +335,7 @@ I value readable code, solid fundamentals, practical problem-solving and continu
   />
 </a>
 </br>
-<a href="https://www.linkedin.com/in/asjidahmed/">
+<a href="https://www.linkedin.com/in/asjid-ahmed/">
   <img
     src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
     alt="Connect on LinkedIn"
