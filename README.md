@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full-Stack+Developer;Data+Scientist;React+%7C+Node.js+Developer;Machine+Learning+Enthusiast;Building+Practical+Software+Solutions"
-    alt="Typing SVG"
+    alt="Typing introduction"
   />
 </a>
 
@@ -16,7 +16,7 @@
 <a href="https://github.com/frost64">
   <img
     src="https://komarev.com/ghpvc/?username=frost64&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat"
-    alt="Profile Views"
+    alt="Profile views"
   />
 </a>
 
@@ -47,7 +47,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer and Data Scientist** with an academic background in **Computer Science** and **Data Science**.
+I'm a **Full-Stack Developer and Data Scientist** with an academic background in both **Computer Science** and **Data Science**.
 
 I enjoy building practical software — from responsive web applications and database-backed systems to data analysis and machine learning projects.
 
@@ -64,7 +64,7 @@ I enjoy building practical software — from responsive web applications and dat
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
@@ -75,7 +75,7 @@ I enjoy building practical software — from responsive web applications and dat
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"/>
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
@@ -85,7 +85,7 @@ I enjoy building practical software — from responsive web applications and dat
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
@@ -129,54 +129,38 @@ I enjoy building practical software — from responsive web applications and dat
 
 ## 🚀 What I Build
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### 🌐 Full-Stack Web Applications
 
-<h3>🌐 Full-Stack</h3>
+I build web applications covering both frontend and backend development.
 
-<ul>
-  <li>Responsive web applications</li>
-  <li>React frontends</li>
-  <li>Node.js & Express backends</li>
-  <li>API integration</li>
-  <li>Authentication & application logic</li>
-  <li>Database-backed systems</li>
-</ul>
+- Responsive and accessible interfaces
+- React-based frontend applications
+- Node.js & Express backends
+- REST API development and integration
+- Authentication and authorization
+- Database-backed application logic
 
-</td>
+### 📊 Data Science & Machine Learning
 
-<td width="33%" valign="top">
+I work with data to extract insights and build predictive solutions.
 
-<h3>📊 Data Science</h3>
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Data visualization
+- Machine learning
+- Predictive modelling
+- Deep learning fundamentals
 
-<ul>
-  <li>Data cleaning & preprocessing</li>
-  <li>Exploratory data analysis</li>
-  <li>Data visualization</li>
-  <li>Machine learning</li>
-  <li>Predictive modelling</li>
-  <li>Deep learning</li>
-</ul>
+### 🧠 Computer Science
 
-</td>
+I continue strengthening the fundamentals behind reliable software development.
 
-<td width="33%" valign="top">
-
-<h3>🧠 Computer Science</h3>
-
-<ul>
-  <li>Data structures</li>
-  <li>Algorithms</li>
-  <li>Database systems</li>
-  <li>Problem solving</li>
-  <li>Programming fundamentals</li>
-  <li>Software engineering concepts</li>
-</ul>
-
-</td>
-</tr>
-</table>
+- Data Structures
+- Algorithms
+- Database Systems
+- Problem Solving
+- Programming Fundamentals
+- Software Engineering Principles
 
 ---
 
@@ -234,118 +218,97 @@ Coursework and learning material covering digital logic design concepts.
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img
-    width="860"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frost64&amp;theme=tokyonight"
-    alt="Asjid Ahmed GitHub Profile Summary"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frost64&amp;theme=tokyonight"
+  alt="Asjid Ahmed GitHub profile summary"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frost64&amp;theme=tokyonight"
+  alt="Top languages by repository"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frost64&amp;theme=tokyonight"
+  alt="GitHub statistics"
+/>
+
+</div>
+
+<br/>
 
 <p align="center">
-  <img
-    width="420"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frost64&amp;theme=tokyonight"
-    alt="Top Languages by Repository"
-  />
-  <img
-    width="420"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frost64&amp;theme=tokyonight"
-    alt="GitHub Statistics"
-  />
+  <sub>
+    GitHub statistics are generated by a third-party service and may update with a delay.
+  </sub>
 </p>
-
-<sub>
-GitHub statistics are generated by a third-party service and may update with a delay.
-</sub>
 
 ---
 
 ## 📚 Currently Improving
 
-<table width="100%">
-<tr>
+### ⚛️ Full-Stack Development
 
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express"/>
+</p>
 
-<h3>⚛️ Full-Stack Development</h3>
+- Advanced React development
+- TypeScript
+- Node.js & Express
+- REST API development
+- Authentication & authorization
+- Database integration
+- Responsive application design
 
-<ul>
-  <li>Advanced React development</li>
-  <li>TypeScript</li>
-  <li>Node.js & Express</li>
-  <li>REST API development</li>
-  <li>Authentication & authorization</li>
-  <li>Database integration</li>
-  <li>Responsive application design</li>
-</ul>
+### 🤖 Data Science & AI
 
-</td>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/>
+</p>
 
-<td width="50%" valign="top">
+- Python for Data Science
+- Pandas & NumPy
+- Machine Learning
+- scikit-learn
+- TensorFlow & Keras
+- PyTorch
+- Data visualization & analysis
 
-<h3>🤖 Data Science & AI</h3>
+### 🧠 Computer Science
 
-<ul>
-  <li>Python for Data Science</li>
-  <li>Pandas & NumPy</li>
-  <li>Machine Learning</li>
-  <li>scikit-learn</li>
-  <li>TensorFlow & Keras</li>
-  <li>PyTorch</li>
-  <li>Data visualization & analysis</li>
-</ul>
+- Data Structures & Algorithms
+- Problem solving
+- Database systems
+- Software architecture
+- Clean code practices
+- Software engineering principles
 
-</td>
+### 🚀 Engineering Skills
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🧠 Computer Science</h3>
-
-<ul>
-  <li>Data Structures & Algorithms</li>
-  <li>Problem solving</li>
-  <li>Database systems</li>
-  <li>Software architecture</li>
-  <li>Clean code practices</li>
-  <li>Software engineering principles</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🚀 Engineering Skills</h3>
-
-<ul>
-  <li>Production-ready applications</li>
-  <li>Git & GitHub workflows</li>
-  <li>Application deployment</li>
-  <li>Performance optimization</li>
-  <li>Testing & debugging</li>
-  <li>Scalable project structures</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 🎯 Current Goal
-
-**Building polished, scalable software that solves real-world problems.**
-
-</div>
+- Production-ready applications
+- Git & GitHub workflows
+- Application deployment
+- Performance optimization
+- Testing & debugging
+- Scalable project structures
 
 ---
+
+<div align="center">
 
 ### 🎯 Current Goal
 
