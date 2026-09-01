@@ -6,27 +6,39 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Data+Scientist;React+%7C+Node.js+Developer;Machine+Learning+Enthusiast;Building+Practical+Software+Solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full-Stack+Developer;Data+Scientist;React+%7C+Node.js+Developer;Machine+Learning+Enthusiast;Building+Practical+Software+Solutions"
     alt="Typing SVG"
   />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/frost64">
-  <img src="https://komarev.com/ghpvc/?username=frost64&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=frost64&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat"
+    alt="Profile Views"
+  />
 </a>
 
-<a href="https://www.linkedin.com/in/asjid-ahmed/">
-  <img src="https://img.shields.io/badge/LinkedIn-Asjid%20Ahmed-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/asjidahmed/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Asjid%20Ahmed-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:asjidahmed6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-asjidahmed6%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-asjidahmed6%40gmail.com-D14836?style=flat&amp;logo=gmail&amp;logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <a href="https://github.com/frost64">
-  <img src="https://img.shields.io/badge/GitHub-frost64-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-frost64-181717?style=flat&amp;logo=github&amp;logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </div>
@@ -35,245 +47,286 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer and Data Scientist** with an academic background in both **Computer Science** and **Data Science**.
+I'm a **Full-Stack Developer and Data Scientist** with an academic background in **Computer Science** and **Data Science**.
 
-I enjoy building applications that combine clean software engineering with practical problem-solving — from responsive web applications and database systems to data analysis and machine learning.
+I enjoy building practical software — from responsive web applications and database-backed systems to data analysis and machine learning projects.
 
-* 🎓 **MSc Data Science** — University of Greenwich, London
-* 🎓 **BSc Computer Science** — FAST NUCES, Pakistan
-* 💻 Building full-stack applications with **React, Node.js and databases**
-* 🤖 Developing projects in **Machine Learning and Data Science**
-* 🧠 Strong foundation in **Algorithms, Databases and Computer Science fundamentals**
-* 📱 Interested in responsive, user-focused software
-* 🚀 Focused on building production-quality portfolio projects
-* 🤝 Open to collaboration and software/data opportunities
+- 🎓 **MSc Data Science** — University of Greenwich, London
+- 🎓 **BSc Computer Science** — FAST NUCES, Pakistan
+- 💻 Building full-stack applications with **React, Node.js and databases**
+- 🤖 Developing projects in **Machine Learning and Data Science**
+- 🧠 Strong foundation in **Algorithms, Databases and Computer Science fundamentals**
+- 📱 Focused on responsive and user-friendly software
+- 🚀 Building practical, portfolio-ready projects
+- 🤝 Open to collaboration and software/data opportunities
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB"/>
 </p>
 
-### Data Science & Machine Learning
+### 📊 Data Science & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/>
 </p>
 
-### Development Tools & Systems
+### 🛠️ Development Tools & Systems
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&amp;logo=cmake&amp;logoColor=white" alt="CMake"/>
 </p>
 
 ---
 
 ## 🚀 What I Build
 
-```text
-🌐 Full-Stack Web Applications
-├── Responsive Frontends
-├── REST-style Backends
-├── Authentication & Application Logic
-└── Database-Driven Systems
+<table>
+<tr>
+<td width="33%" valign="top">
 
-📊 Data Science
-├── Data Cleaning & Analysis
-├── Data Visualization
-├── Machine Learning
-└── Predictive Modelling
+<h3>🌐 Full-Stack</h3>
 
-🧠 Computer Science
-├── Data Structures
-├── Algorithms
-├── Database Systems
-└── Programming Fundamentals
-```
+<ul>
+  <li>Responsive web applications</li>
+  <li>React frontends</li>
+  <li>Node.js & Express backends</li>
+  <li>API integration</li>
+  <li>Authentication & application logic</li>
+  <li>Database-backed systems</li>
+</ul>
 
----
+</td>
 
-# 🔥 Featured Projects
+<td width="33%" valign="top">
 
-## 🎨 Art Gallery Project
+<h3>📊 Data Science</h3>
 
-**Interactive web development project focused on frontend functionality and user interaction.**
+<ul>
+  <li>Data cleaning & preprocessing</li>
+  <li>Exploratory data analysis</li>
+  <li>Data visualization</li>
+  <li>Machine learning</li>
+  <li>Predictive modelling</li>
+  <li>Deep learning</li>
+</ul>
 
-`JavaScript` `HTML` `CSS`
+</td>
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/frost64/Art-Gallery-Project)
+<td width="33%" valign="top">
 
----
+<h3>🧠 Computer Science</h3>
 
-## 🗄️ Database Application
+<ul>
+  <li>Data structures</li>
+  <li>Algorithms</li>
+  <li>Database systems</li>
+  <li>Problem solving</li>
+  <li>Programming fundamentals</li>
+  <li>Software engineering concepts</li>
+</ul>
 
-**Database-driven application combining server-side development with relational data management.**
-
-`PHP` `MySQL`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/frost64/DataBase)
-
----
-
-## ⚙️ C / C++ Programming
-
-**Collection of programs covering programming fundamentals, logical problem-solving and core C/C++ concepts.**
-
-`C` `C++`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/frost64/C-Codes)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Algorithms
+## 🔥 Featured Projects
 
-**Implementations of algorithms and core computer science problem-solving concepts.**
+### 🎨 Art Gallery Project
 
-`Java` `Algorithms` `Data Structures`
+Web-based art gallery project involving a relational database and server-side application setup.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/frost64/Algo)
+**Technologies:** `PHP` `MySQL` `HTML` `CSS`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Art-Gallery-Project)
 
 ---
 
-## 🔌 Digital Logic Design
+### 🗄️ Database & SQL
 
-**Coursework and implementations covering digital logic and fundamental computer engineering concepts.**
+Collection of database exercises, SQL files, PHP database connectivity examples and relational database coursework.
 
-`Digital Logic` `Computer Architecture` `CS Fundamentals`
+**Technologies:** `SQL` `PHP` `MySQL`
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/frost64/Digital-Logic-Design)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/DataBase)
+
+---
+
+### ⚙️ C / C++ Programming
+
+Collection of C/C++ programs covering programming fundamentals, data structures and problem-solving concepts.
+
+**Technologies:** `C` `C++` `Data Structures`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/C-Codes)
+
+---
+
+### 🧩 Algorithms
+
+Algorithm and problem-solving implementations written in Java and Python.
+
+**Technologies:** `Java` `Python` `Algorithms`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Algo)
+
+---
+
+### 🔌 Digital Logic Design
+
+Coursework and learning material covering digital logic design concepts.
+
+**Topics:** `Digital Logic` `Computer Engineering` `CS Fundamentals`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Digital-Logic-Design)
 
 ---
 
 ## 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img
+    width="860"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frost64&amp;theme=tokyonight"
+    alt="Asjid Ahmed GitHub Profile Summary"
+  />
+</p>
 
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frost64&theme=tokyonight"
-  alt="Asjid Ahmed GitHub Profile Summary"
-/>
+<p align="center">
+  <img
+    width="420"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frost64&amp;theme=tokyonight"
+    alt="Top Languages by Repository"
+  />
+  <img
+    width="420"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frost64&amp;theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+</p>
 
-<br/><br/>
+<sub>
+GitHub statistics are generated by a third-party service and may update with a delay.
+</sub>
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frost64&theme=tokyonight"
-  alt="Top Languages by Repository"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frost64&theme=tokyonight"
-  alt="GitHub Statistics"
-/>
-
-</div>
-
+---
 
 ## 📚 Currently Improving
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚛️ Full-Stack Development
+<h3>⚛️ Full-Stack Development</h3>
 
-- Advanced React development
-- TypeScript
-- Node.js & Express
-- REST API development
-- Authentication & authorization
-- Database integration
-- Responsive application design
+<ul>
+  <li>Advanced React development</li>
+  <li>TypeScript</li>
+  <li>Node.js & Express</li>
+  <li>REST API development</li>
+  <li>Authentication & authorization</li>
+  <li>Database integration</li>
+  <li>Responsive application design</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Data Science & AI
+<h3>🤖 Data Science & AI</h3>
 
-- Python for Data Science
-- Pandas & NumPy
-- Machine Learning
-- scikit-learn
-- TensorFlow & Keras
-- PyTorch
-- Data visualization & analysis
+<ul>
+  <li>Python for Data Science</li>
+  <li>Pandas & NumPy</li>
+  <li>Machine Learning</li>
+  <li>scikit-learn</li>
+  <li>TensorFlow & Keras</li>
+  <li>PyTorch</li>
+  <li>Data visualization & analysis</li>
+</ul>
 
 </td>
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧠 Computer Science
+<h3>🧠 Computer Science</h3>
 
-- Data Structures & Algorithms
-- Problem solving
-- Database systems
-- Software architecture
-- Clean code practices
+<ul>
+  <li>Data Structures & Algorithms</li>
+  <li>Problem solving</li>
+  <li>Database systems</li>
+  <li>Software architecture</li>
+  <li>Clean code practices</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 Engineering Skills
+<h3>🚀 Engineering Skills</h3>
 
-- Production-ready applications
-- Git & GitHub workflows
-- Application deployment
-- Performance optimization
-- Testing & debugging
-- Scalable project structure
+<ul>
+  <li>Production-ready applications</li>
+  <li>Git & GitHub workflows</li>
+  <li>Application deployment</li>
+  <li>Performance optimization</li>
+  <li>Testing & debugging</li>
+  <li>Scalable project structure</li>
+</ul>
 
 </td>
 </tr>
@@ -287,6 +340,8 @@ I enjoy building applications that combine clean software engineering with pract
 
 </div>
 
+---
+
 ## 💡 Development Philosophy
 
 > **Understand the problem. Design the solution. Build it cleanly. Improve it continuously.**
@@ -299,27 +354,36 @@ I value readable code, solid fundamentals, practical problem-solving and continu
 
 I'm interested in:
 
-* 💻 Software Engineering
-* 🌐 Full-Stack Development
-* 📊 Data Science
-* 🤖 Machine Learning
-* 🚀 Interesting technical projects
-* 🤝 Open-source and collaborative development
+- 💻 Software Engineering
+- 🌐 Full-Stack Development
+- 📊 Data Science
+- 🤖 Machine Learning
+- 🚀 Interesting technical projects
+- 🤝 Open-source and collaborative development
 
 <div align="center">
 
 ### Have a project, opportunity or interesting idea?
 
 <a href="mailto:asjidahmed6@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+    alt="Email Me"
+  />
 </a>
 
-<a href="https://www.linkedin.com/in/asjid-ahmed/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/asjidahmed/">
+  <img
+    src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+    alt="Connect on LinkedIn"
+  />
 </a>
 
 <a href="https://github.com/frost64">
-  <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+    alt="Explore My GitHub"
+  />
 </a>
 
 <br/><br/>
