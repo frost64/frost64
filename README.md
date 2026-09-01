@@ -321,18 +321,8 @@ I value readable code, solid fundamentals, practical problem-solving and continu
 
 ## 🤝 Let's Connect
 
-I'm interested in:
 
-- 💻 Software Engineering
-- 🌐 Full-Stack Development
-- 📊 Data Science
-- 🤖 Machine Learning
-- 🚀 Interesting technical projects
-- 🤝 Open-source and collaborative development
-
-<div align="center">
-
-### Have a project, opportunity or interesting idea?
+<div align="left">
 
 <a href="mailto:asjidahmed6@gmail.com">
   <img
