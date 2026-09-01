@@ -261,41 +261,72 @@ alt="GitHub Statistics"
 
 ## 📚 Currently Improving
 
-```javascript
-const asjid = {
-    focus: [
-        "Full-Stack Development",
-        "Data Science",
-        "Machine Learning",
-        "Software Engineering"
-    ],
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    frontend: [
-        "React",
-        "JavaScript",
-        "TypeScript"
-    ],
+### ⚛️ Full-Stack Development
 
-    backend: [
-        "Node.js",
-        "Express",
-        "Databases"
-    ],
+- Advanced React development
+- TypeScript
+- Node.js & Express
+- REST API development
+- Authentication & authorization
+- Database integration
+- Responsive application design
 
-    dataScience: [
-        "Python",
-        "Pandas",
-        "NumPy",
-        "scikit-learn",
-        "TensorFlow",
-        "PyTorch"
-    ],
+</td>
 
-    goal: "Build software that solves real problems"
-};
-```
+<td width="50%" valign="top">
 
----
+### 🤖 Data Science & AI
+
+- Python for Data Science
+- Pandas & NumPy
+- Machine Learning
+- scikit-learn
+- TensorFlow & Keras
+- PyTorch
+- Data visualization & analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Computer Science
+
+- Data Structures & Algorithms
+- Problem solving
+- Database systems
+- Software architecture
+- Clean code practices
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Engineering Skills
+
+- Production-ready applications
+- Git & GitHub workflows
+- Application deployment
+- Performance optimization
+- Testing & debugging
+- Scalable project structure
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 Current Goal
+
+**Building polished, scalable software that solves real-world problems.**
+
+</div>
 
 ## 💡 Development Philosophy
 
