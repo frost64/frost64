@@ -3,15 +3,7 @@
 # 👋 Hi, I'm Asjid Ahmed
 
 ### Full-Stack Developer • Data Scientist • Computer Science Graduate
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full-Stack+Developer;Data+Scientist;React+%7C+Node.js+Developer;Machine+Learning+Enthusiast;Building+Practical+Software+Solutions"
-    alt="Typing introduction"
-  />
-</a>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/frost64">
   <img
@@ -19,21 +11,21 @@
     alt="Profile views"
   />
 </a>
-
+<br/>
 <a href="https://www.linkedin.com/in/asjidahmed/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Asjid%20Ahmed-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white"
     alt="LinkedIn"
   />
 </a>
-
+<br/>
 <a href="mailto:asjidahmed6@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-asjidahmed6%40gmail.com-D14836?style=flat&amp;logo=gmail&amp;logoColor=white"
     alt="Email"
   />
 </a>
-
+<br/>
 <a href="https://github.com/frost64">
   <img
     src="https://img.shields.io/badge/GitHub-frost64-181717?style=flat&amp;logo=github&amp;logoColor=white"
