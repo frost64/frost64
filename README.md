@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Asjid Ahmed
 
-### Full-Stack Developer • Data Scientist • Computer Science Graduate
+### • Full-Stack Developer • Data Scientist
 <br/>
 
 <a href="https://github.com/frost64">
