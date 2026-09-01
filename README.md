@@ -158,65 +158,65 @@ I continue strengthening the fundamentals behind reliable software development.
 
 ## 🔥 Featured Projects
 
-### 🎨 Art Gallery Project
+> ### 🎨 Art Gallery Project
+>
+> - Web-based art gallery project with database integration
+> - Includes server-side functionality and relational data handling
+> - Focused on practical full-stack development concepts
+>
+> **Technologies:** `PHP` `MySQL` `HTML` `CSS`
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Art-Gallery-Project)
 
-- Web-based art gallery project with database integration
-- Includes server-side functionality and relational data handling
-- Focused on practical full-stack development concepts
+<br/>
 
-**Technologies:** `PHP` `MySQL` `HTML` `CSS`
+> ### 🗄️ Database & SQL
+>
+> - Collection of SQL exercises and database coursework
+> - Includes relational database concepts and queries
+> - Contains PHP database connectivity examples
+> - Covers practical MySQL usage
+>
+> **Technologies:** `SQL` `PHP` `MySQL`
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/DataBase)
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Art-Gallery-Project)
+<br/>
 
----
+> ### ⚙️ C / C++ Programming
+>
+> - Collection of C and C++ programs
+> - Covers programming fundamentals
+> - Includes problem-solving exercises
+> - Explores data structures and core CS concepts
+>
+> **Technologies:** `C` `C++` `Data Structures`
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/C-Codes)
 
-### 🗄️ Database & SQL
+<br/>
 
-- Collection of SQL exercises and database coursework
-- Includes relational database concepts and queries
-- Contains PHP database connectivity examples
-- Covers practical MySQL usage
+> ### 🧩 Algorithms
+>
+> - Implementations of algorithms and problem-solving exercises
+> - Includes programs written in Java and Python
+> - Focuses on algorithmic thinking and CS fundamentals
+>
+> **Technologies:** `Java` `Python` `Algorithms`
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Algo)
 
-**Technologies:** `SQL` `PHP` `MySQL`
+<br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/DataBase)
-
----
-
-### ⚙️ C / C++ Programming
-
-- Collection of C and C++ programs
-- Covers programming fundamentals
-- Includes problem-solving exercises
-- Explores data structures and core CS concepts
-
-**Technologies:** `C` `C++` `Data Structures`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/C-Codes)
-
----
-
-### 🧩 Algorithms
-
-- Implementations of algorithms and problem-solving exercises
-- Includes programs written in Java and Python
-- Focuses on algorithmic thinking and CS fundamentals
-
-**Technologies:** `Java` `Python` `Algorithms`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Algo)
-
----
-
-### 🔌 Digital Logic Design
-
-- Coursework covering digital logic design concepts
-- Includes fundamental computer engineering topics
-- Focuses on logic systems and digital design principles
-
-**Topics:** `Digital Logic` `Computer Engineering` `CS Fundamentals`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Digital-Logic-Design)
+> ### 🔌 Digital Logic Design
+>
+> - Coursework covering digital logic design concepts
+> - Includes fundamental computer engineering topics
+> - Focuses on logic systems and digital design principles
+>
+> **Topics:** `Digital Logic` `Computer Engineering` `CS Fundamentals`
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost64/Digital-Logic-Design)
 
 ---
 
