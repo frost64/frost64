@@ -196,24 +196,26 @@ I enjoy building applications that combine clean software engineering with pract
 <div align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frost64&theme=tokyonight"
-alt="Asjid Ahmed GitHub Profile Summary"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frost64&theme=tokyonight"
+  alt="Asjid Ahmed GitHub Profile Summary"
 />
 
-<br/>
+<br/><br/>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frost64&theme=tokyonight"
-alt="Repositories per Language"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frost64&theme=tokyonight"
+  alt="Top Languages by Repository"
 />
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frost64&theme=tokyonight"
-alt="GitHub Statistics"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frost64&theme=tokyonight"
+  alt="GitHub Statistics"
 />
 
 </div>
-
 ---
 
 
