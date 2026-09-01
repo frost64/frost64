@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=frost64&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </a>
 
-<a href="https://www.linkedin.com/in/asjidahmed/">
+<a href="https://www.linkedin.com/in/asjid-ahmed/">
   <img src="https://img.shields.io/badge/LinkedIn-Asjid%20Ahmed-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -355,7 +355,7 @@ I'm interested in:
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/asjidahmed/">
+<a href="https://www.linkedin.com/in/asjid-ahmed/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
