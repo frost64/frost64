@@ -28,7 +28,7 @@
 <br/>
 <a href="https://github.com/frost64">
   <img
-    src="https://img.shields.io/badge/GitHub-frost64-181717?style=flat&amp;logo=github&amp;logoColor=white"
+    src="https://img.shields.io/badge/GitHub-frost64-D12836?style=flat&amp;logo=github&amp;logoColor=white"
     alt="GitHub"
   />
 </a>
