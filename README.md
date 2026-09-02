@@ -35,7 +35,7 @@
 <br/>
 <a href="https://frost64.github.io">
   <img
-    src="https://img.shields.io/badge/Website-frost64.github.io-808080?style=flat&amp;labelColor=181717&amp;logo=googlechrome&amp;logoColor=white"
+    src="https://img.shields.io/badge/Website-frost64.github.io-808080?style=flat&amp;logo=googlechrome&amp;logoColor=white"
     alt="Website"
   >
 </a>
