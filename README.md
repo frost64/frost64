@@ -7,7 +7,7 @@
 
 <a href="https://github.com/frost64">
   <img
-    src="https://komarev.com/ghpvc/?username=frost64&amp;label=Profile%20Views&amp;color=6F42C1;style=flat"
+    src="https://komarev.com/ghpvc/?username=frost64&amp;label=Profile%20Views&amp;color=6F42C1&amp;style=flat"
     alt="Profile views"
   />
 </a>
