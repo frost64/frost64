@@ -354,7 +354,13 @@ I value readable code, solid fundamentals, practical problem-solving and continu
     alt="Explore My GitHub"
   />
 </a>
-
+</br>
+<a href="https://frost64.github.io/">
+  <img
+    src="https://img.shields.io/badge/Visit_My_Website-00BCD4?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"
+    alt="Connect on LinkedIn"
+  />
+</a>
 <br/><br/>
 
 **Thanks for visiting my profile 👋**
